@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Marrocos",
       "força": 4,
-      "imagem": "TODO"
+      "imagem": "https://thumbs.dreamstime.com/b/imagem-da-bandeira-de-marrocos-80478102.jpg"
     },
     "visitante": {
       "nome": "Tunísia",
       "força": 3,
-      "imagem": "TODO"
+      "imagem": "http://geo5.net/imagens/bandeira-da-tunisia-2000px.png"
     }
   }
 ]

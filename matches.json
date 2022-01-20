@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": "Copa Africana das Nações",
+    "local": {
+      "nome": "Estádio Príncipe Moulay Abdellah",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Marrocos",
+      "força": 4,
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Tunísia",
+      "força": 3,
+      "imagem": "TODO"
+    }
+  }
+]

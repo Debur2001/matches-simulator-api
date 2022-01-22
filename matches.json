@@ -15,5 +15,39 @@
       "força": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/tn.webp"
     }
+  },
+  {
+    "descrição": "Copa Africana das Nações",
+    "local": {
+      "nome": "Estádio D'Olembé",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Camarões",
+      "força": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cm.webp"
+    },
+    "visitante": {
+      "nome": "Argélia",
+      "força": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/dz.webp"
+    }
+  },
+  {
+    "descrição": "Copa Africana das Nações",
+    "local": {
+      "nome": "Estádio Nacional de Abuja",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Nigéria",
+      "força": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ng.webp"
+    },
+    "visitante": {
+      "nome": "Egito",
+      "força": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/eg.webp"
+    }
   }
 ]
